@@ -10,9 +10,10 @@
     1. I think solutions should be simple even for complex problems. 
 4. **Architecture**
     1. If we can't explain, we don't understand the problem.
+    2. Diagrams should be clear and concise.
 5. **Customer success**
     1. I believe we must empathize with customers and give them our best work.
-    2. If they don't know how to use, the UX is broken.
+    2. If they don't know how to use somthing, the UX is probably broken.
 6. **Code Reviews**
     1. We should take them to the heart and use them as a learning opportunity. 
 7. **Refactoring**
