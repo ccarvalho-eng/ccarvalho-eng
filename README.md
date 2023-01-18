@@ -1,27 +1,40 @@
 ## Hi, I am Cristiano (/-_・)/D・・・・・------ →
 
-1. **Workstation**
-    1. I like to code from anywhere. 
-    2. No need for a fancy office. 
-    3. Preferably from cozy and quiet places. 
-2. **Meetings**
-    1. They should end with actionable items and takeaways. 
-3. **Problem solving**
-    1. I think solutions should be simple even for complex problems. 
-4. **Architecture**
-    1. If we can't explain, we don't understand the problem.
-    2. Diagrams should be clear and concise.
-5. **Customer Success**
-    1. I believe we must empathize with customers and give them our best work.
-    2. If they don't know how to use somthing, the UX is probably broken.
-6. **Code Reviews**
-    1. We should take them to the heart and use them as a learning opportunity. 
-7. **Refactoring**
-    1. Don’t change something that is working. 
-    2. We can always keep it backward compatible while adding a better version.
-7. **Deploys**
-    1. It should happen often and with confidence.
+#### Tech Stack
 
+1. **DevOps**
+    1. Docker
+2. **System**
+    1. Rust
+3. **Backend**
+    1. Elixir
+        1. Frameworks
+            1. Phoenix
+                1. Ecto
+                2. Channels
+                3. LiveView
+                4. Meta programming
+                5. OTP
+        2. Libraries
+            1. Livebook
+            2. NX
+4. **Frontend**
+    1. Javascript
+5. **APIs**
+    1. REST
+    2. GraphQL
+6. **Databases**
+    1. Relational
+        1. PostgreSQL
+7. **Caching**
+    1. Redis
+8. **Design & Development Principles**
+    1. CQRS
+    2. Domain Driven Design
+    3. Event Sourcing
+    4. TDD
+9. **Search Engines**
+    1. Elastic Search
 
 ## Social
 
