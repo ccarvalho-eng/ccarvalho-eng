@@ -1,6 +1,6 @@
 ## Hi, I am Cristiano (/-_・)/D・・・・・------ →
 
-#### Tech Stack
+#### Tech Stack and interests
 
 1. **DevOps**
     1. Docker
@@ -8,18 +8,19 @@
     1. Rust
 3. **Backend**
     1. Elixir
-        1. Frameworks
+        1. **Frameworks**
             1. Phoenix
                 1. Ecto
                 2. Channels
                 3. LiveView
                 4. Meta programming
                 5. OTP
-        2. Libraries
+        2. **Libraries**
             1. Livebook
             2. NX
 4. **Frontend**
     1. Javascript
+    2. Elm
 5. **APIs**
     1. REST
     2. GraphQL
