@@ -2,7 +2,9 @@
 
 
 1. **Workstation**
-    1. I like to code from anywhere. No need for a fancy office. Preferably from cozy and quite places. 
+    1. I like to code from anywhere. 
+    2. No need for a fancy office. 
+    3. Preferably from cozy and quite places. 
 2. **Meetings**
     1. They should end with actionable items and takeaways. 
 3. **Problem solving**
@@ -14,7 +16,8 @@
 6. **Code Reviews**
     1. We should take them to the heart and use them as a learning opportunity. 
 7. **Refactoring**
-    1. Don’t change something that is working. We can always keep it backward compatible while adding a better version.  
+    1. Don’t change something that is working. 
+    2. We can always keep it backward compatible while adding a better version.  
 
 
 
