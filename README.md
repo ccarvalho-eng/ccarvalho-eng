@@ -1,6 +1,6 @@
 ## Hi, I am Cristiano (/-_・)/D・・・・・------ →
 
-I am Senior Software Engineer with 5+ years of experience in web development. I enjoy using TDD and functional programming to build high quality apps. 
+I am Senior Software Engineer with 5+ years of experience in web development. I enjoy using TDD and functional programming to build fast, solid and reliable apps. 
 
 <h3 align="left">Social</h3>
 
