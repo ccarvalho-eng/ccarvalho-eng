@@ -4,6 +4,7 @@ Hail and well met! As a seasoned Artificer of Software with a rich chronicle spa
 
 <a href="https://www.linkedin.com/in/ccarvalho-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-![Ccarvalho-eng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccarvalho-eng&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccarvalho-eng&layout=compact&theme=default)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ccarvalho-eng&show_icons=true&theme=default" alt="Ccarvalho-eng's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarvalho-eng&layout=compact&theme=default" alt="Top Languages" height="150"/>
+</p>
