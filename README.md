@@ -1,6 +1,6 @@
 ## Hi, I am Cristiano (/-_・)/D・・・・・------ →
 
-Hail and well met! As a seasoned Artificer of Software with a rich chronicle spanning eight winters, I find my fervor in the meticulous construction of mighty Web Keeps of the ethereal realm. Wielding the arcane arts of Test-Driven Development (TDD) and Functional Spellcrafting (functional programming), my solemn pledge is to conjure steadfast, swift, and trustworthy bastions of digital interaction.
+Hail and well met. I am a Software Artificer, tempered by eight winters at the forge of code. My craft lies in raising enduring Web Keeps—structures built not of stone, but of logic and design. Through the arcane arts of Test-Driven Development and the spellcraft of functional programming, I bind resilience, speed, and trust into every work I shape.
 
 ---
 
