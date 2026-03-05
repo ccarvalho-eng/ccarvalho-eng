@@ -12,22 +12,11 @@ Hail and well met. I am a Software Artificer, tempered by eight winters at the f
 ---
 
 ### ⚔️ Tools of the Trade
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-F35421?style=flat&logo=phoenixframework&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 
----
-
-### 📜 Stats & Lore
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccarvalho-eng&show_icons=true&theme=default" alt="Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarvalho-eng&layout=compact&theme=default" alt="Top Languages" height="150"/>
-</p>
 
