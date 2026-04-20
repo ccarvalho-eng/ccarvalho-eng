@@ -21,8 +21,5 @@ Hail and well met. I am a Software Artificer, tempered by eight winters at the f
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ccarvalho-eng&show_icons=true&hide_title=true)
-<br />
-![Streak](https://streak-stats.demolab.com?user=ccarvalho-eng)
-<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccarvalho-eng&layout=compact&langs_count=12)
+![Streak](https://streak-stats.demolab.com?user=ccarvalho-eng)
