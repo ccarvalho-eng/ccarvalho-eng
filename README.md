@@ -11,6 +11,8 @@ Hail and well met. I am a Software Artificer, tempered by eight winters at the f
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccarvalho-eng&layout=compact)
+
 ### ⚔️ Tools of the Trade
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
