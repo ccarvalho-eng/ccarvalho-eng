@@ -17,7 +17,7 @@ Hail and well met. I am a Software Artificer, tempered by eight winters at the f
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-F35421?style=flat&logo=phoenixframework&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-black?style=flat)
 
 ## Stats
 
