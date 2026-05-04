@@ -19,7 +19,3 @@ Hail and well met. I am a Software Artificer, tempered by eight winters at the f
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-black?style=flat)
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccarvalho-eng&layout=compact&langs_count=12)
-![Streak](https://streak-stats.demolab.com?user=ccarvalho-eng)
