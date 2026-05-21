@@ -1,6 +1,12 @@
 ## Hi, I am Cristiano (/-_・)/D・・・・・------ →
 
-Hail and well met. I am a Software Artificer, tempered by eight winters at the forge of code. My craft lies in raising enduring Web Keeps—structures built not of stone, but of logic and design. Through the arcane arts of Test-Driven Development and the spellcraft of functional programming, I bind resilience, speed, and trust into every work I shape.
+Hail, traveler.
+
+I am a keeper of hidden craft, tempered through long winters and harder roads. For near a decade I have wandered the halls of forgotten machines, raising great works from silence and ash.
+
+My trade is the forging of strongholds unseen — realms of thought and rune built to endure storm, time, and the folly of careless hands.
+
+I value sturdy foundations, quiet precision, and work that speaks for itself. No grand boasting. No gilded promises. Only craft worthy of surviving the next age.
 
 ---
 
